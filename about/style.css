@@ -1,1 +1,1 @@
-body { background-color: lightgray; display: flex; flex-direction: column; align-items: center; } div { font-family: monospace; padding: 2em; max-width: 800px; background-color: white; overflow-wrap: break-word; border-radius: 10px; }
+body { background-color: lightgray; display: flex; flex-direction: column; align-items: center; } div { font-family: monospace; padding: 2em; max-width: 50em; background-color: white; border-radius: 10px; word-break: break-all; white-space: pre-wrap; word-wrap: break-word; }
